@@ -1,0 +1,29 @@
+{
+  "identifier": "thimbletray",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "thimbletray_pro",
+      "localizations": [
+        {
+          "description": "Unlimited items and a display-tray layout",
+          "displayName": "Thimble Tray Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "thimbletray_pro",
+      "referenceName": "Thimble Tray Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
